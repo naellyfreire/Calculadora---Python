@@ -1,4 +1,4 @@
-def adicao(x, y)
+def adicao(x, y):
     return x + y
 
 def subtracao(x, y):
