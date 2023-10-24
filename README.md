@@ -1,3 +1,5 @@
 # Calculadora---Python
 
-Testar a pipeline de analise do sonar em linguagem python.
+Testar a pipeline de analise do SonarCloud em linguagem python.
+
+
