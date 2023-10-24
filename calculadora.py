@@ -15,14 +15,14 @@ def divisao(x, y):
 
 def calculadora():
     print("Selecione a operação:")
-    print("1. Adição")
+    print("1. Adição"
     print("2. Subtração")
     print("3. Multiplicação")
     print("4. Divisão")
 
     escolha = input("Digite o número da operação desejada (1/2/3/4): ")
 
-    num1 = float(input("Digite o primeiro número: "))
+    num1 = float(input("Digite o primeiro número: ))
     num2 = float(input("Digite o segundo número: "))
 
     if escolha == '1':
