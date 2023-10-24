@@ -31,7 +31,7 @@ jobs:
     - name: Analysing the code with pylint
       continue-on-error: true
       run: |
-        pylint src/git_graph_automation
+        pylint calculadora.py
     - name: SonarCloud Scan
       uses: SonarSource/sonarcloud-github-action@master
       env:
